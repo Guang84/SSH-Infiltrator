@@ -45,7 +45,7 @@ Before running the scripts, ensure you have the following installed:
 
 2. **Make the scripts executable**:
    ```bash
-   chmod +x main_control.sh server_monitoring.sh
+   chmod +x SSH-Infiltrator
    ```
 
 3. **Run the Setup Script**: (Optional, if you need to install additional dependencies)
@@ -58,7 +58,7 @@ Before running the scripts, ensure you have the following installed:
 1. **Run the Main Control Script**:
    To start using the tool, execute the main control script:
    ```bash
-   ./main_control.sh
+   ./SSH-Infiltrator.sh
    ```
 
 2. **Input Prompts**:

@@ -39,8 +39,8 @@ Before running the scripts, ensure you have the following installed:
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Guang84/SSH-Infiltrator.git
+   cd SSH-Infiltrator
    ```
 
 2. **Make the scripts executable**:
